@@ -1,0 +1,4 @@
+requests==2.9.1
+Flask==0.10.1
+redis==3.3.8
+lxml==3.5.0
